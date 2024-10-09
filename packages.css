@@ -1,0 +1,384 @@
+.styles_newBackground__U4ije {
+    background-color: #14161c;
+}
+
+.styles_wholeContainer__rM65l {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.containerPwa, .containerPwaWrapper {
+    max-width: 800px;
+}
+.mx-auto {
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+.relative {
+    position: relative;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+.w-full {
+    width: 100%;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.styles_topMargin__i12XQ {
+    margin-top: 20px;
+}
+
+.styles_containerclassName__AAdV6 {
+    width: 138px;
+    height: 53px;
+    top: 90px;
+    padding: 4px 8px;
+    border-radius: 0 8px 8px 0;
+    margin-top: 20px;
+    background: #fff;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-bottom: 16px;
+}
+.cursor-pointer {
+    cursor: pointer !important;
+}
+.items-center {
+    align-items: center;
+}
+.justify-center {
+    justify-content: center;
+}
+.flex-col {
+    flex-direction: column;
+}
+.flex {
+    display: flex;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+a {
+    color: inherit;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+.w-full {
+    width: 100%;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.styles_container__hzdiA {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 100%;
+    height: auto;
+    min-height: calc(100vh - 12px);
+    padding-bottom: 120px;
+}
+.containerPwa {
+    width: calc(100% - 64px) !important;
+    margin: auto 32px;
+    box-sizing: border-box;
+    align-self: center;
+    background-color: #14161c;
+    margin-top: unset;
+    margin-bottom: unset;
+}
+.containerPwa, .containerPwaWrapper {
+    max-width: 800px;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+.styles_title__LAfrn {
+    font-size: 14px !important;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0;
+    text-align: center;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    width: 100%;
+}
+.styles_title__Ct383 {
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0;
+    width: auto;
+    margin: 0;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+.styles_box__pOURT{
+     text-decoration: none;
+}
+

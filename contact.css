@@ -1,0 +1,1256 @@
+.styles_newBackground__uq7pM {
+    background: #1d1f24;
+}
+
+.styles_containerShow__fl4bh {
+    opacity: 1;
+    transition: all .3s;
+}
+
+.styles_containerShow__fl4bh, .styles_container__miBc6 {
+    min-height: 100vh;
+    width: 100%;
+    opacity: 0;
+    transition: all .3s;
+}
+.relative {
+    position: relative;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+
+
+
+.styles_newBackground__U4ije {
+    background-color: #14161c;
+}
+
+.styles_wholeContainer__rM65l {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.containerPwa, .containerPwaWrapper {
+    max-width: 800px;
+}
+.mx-auto {
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+.relative {
+    position: relative;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+
+
+.styles_container__hzdiA {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 100%;
+    height: auto;
+    min-height: calc(100vh - 12px);
+    padding-bottom: 120px;
+}
+.containerPwa {
+    width: calc(100% - 64px) !important;
+    margin: auto 32px;
+    box-sizing: border-box;
+    align-self: center;
+    background-color: #14161c;
+    margin-top: unset;
+    margin-bottom: unset;
+}
+.containerPwa, .containerPwaWrapper {
+    max-width: 800px;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.h-auto {
+    height: auto;
+}
+.w-full {
+    width: 100%;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+
+
+.styles_title__QCKOq {
+    margin-top: 16px;
+    margin-bottom: 24px;
+}
+.h-auto {
+    height: auto;
+}
+.w-full {
+    width: 100%;
+}
+.items-center {
+    align-items: center;
+}
+.flex {
+    display: flex;
+}
+.flex-row {
+    flex-direction: row;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+.styles_container__uOyfS input[type=password], .styles_container__uOyfS input[type=text] {
+    background-color: transparent;
+}
+
+.styles_container__uOyfS input {
+    background-color: transparent;
+    border-radius: 8px;
+    background: transparent !important;
+    width: 100%;
+    border: none;
+    padding: 0 5px;
+}
+.ochatt_mode_dark input, .ochatt_mode_dark textarea {
+    color: #fff !important;
+}
+
+.styles_inputStyle__Hh_Np, .styles_wrapper__gRYu8 {
+    width: 100%;
+}
+
+.styles_inputStyle__Hh_Np {
+    width: 353px;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+input[type="text" i] {
+    padding-block: 1px;
+    padding-inline: 2px;
+}
+user agent stylesheet
+
+user agent stylesheet
+input {
+  
+    text-rendering: auto;
+    color: fieldtext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    background-color: field;
+    margin: 0em;
+    padding: 1px 0px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+    padding-block: 1px;
+    padding-inline: 2px;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.input_inputTitle__s6F7U {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: hsla(0, 0%, 100%, .8);
+    margin-bottom: 8px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.styles_container__QnsG5 {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: flex-start;
+    height: -moz-fit-content;
+    height: fit-content;
+    padding: .5em 0;
+    width: 100%;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.styles_container__QnsG5 {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: flex-start;
+    height: -moz-fit-content;
+    height: fit-content;
+    padding: .5em 0;
+    width: 100%;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.styles_container__QnsG5 {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: flex-start;
+    height: -moz-fit-content;
+    height: fit-content;
+    padding: .5em 0;
+    width: 100%;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.styles_container__DA9Qt .styles_wrapper__F70l8 {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+.input_submitButton__TmC1a {
+    background: #1c39bb;
+    width: 100%;
+    color: #fff;
+    margin: 40px 0;
+}
+
+.styles_container__DA9Qt {
+    width: -moz-fit-content;
+    width: fit-content;
+    cursor: pointer;
+    border-radius: 24px;
+    padding: 8px 18px;
+    background-color: #fafafa;
+    font-size: 16px;
+    display: inline-block;
+    height: 36px;
+    background-color: #1c39bb;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: unset;
+    background: #1c39bb;
+    width: 100%;
+    color: #fff;
+    margin: 40px 0;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.styles_container__DA9Qt .styles_wrapper__F70l8 {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+.input_submitButton__TmC1a {
+    background: #1c39bb;
+    width: 100%;
+    color: #fff;
+    margin: 40px 0;
+}
+
+.styles_container__DA9Qt {
+    width: -moz-fit-content;
+    width: fit-content;
+    cursor: pointer;
+    border-radius: 24px;
+    padding: 8px 18px;
+    background-color: #fafafa;
+    font-size: 16px;
+    display: inline-block;
+    height: 36px;
+    background-color: #1c39bb;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: unset;
+    background: #1c39bb;
+    width: 100%;
+    color: #fff;
+    margin: 40px 0;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.styles_box__pOURT, .styles_container__T7wl6 {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.styles_container__T7wl6 {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 65px;
+    padding: 0 12px;
+    background: #1d1f24;
+    left: 0;
+    margin: auto;
+    box-sizing: border-box;
+}
+* {
+    box-sizing: border-box;
+}
+* {
+    box-sizing: border-box;
+}
+* {
+    box-sizing: border-box;
+}
+* {
+    box-sizing: border-box;
+}
+* {
+    box-sizing: border-box;
+}
+* {
+    box-sizing: border-box;
+}
+* {
+    box-sizing: border-box;
+}
+* {
+    box-sizing: border-box;
+}
+* {
+    box-sizing: border-box;
+}
+* {
+    box-sizing: border-box;
+}
+* {
+    box-sizing: border-box;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.w-full {
+    width: 100%;
+}
+.justify-center {
+    justify-content: center;
+}
+.flex {
+    display: flex;
+}
+.flex-row {
+    flex-direction: row;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+.styles_box__pOURT{
+    text-decoration: none;
+}

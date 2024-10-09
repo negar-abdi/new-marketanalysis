@@ -1,0 +1,1396 @@
+
+.containerPwa {
+    width: calc(100% - 64px) !important;
+    margin: auto 32px;
+    box-sizing: border-box;
+    align-self: center;
+    background-color: #14161c;
+    margin-top: unset;
+    margin-bottom: unset;
+}
+.containerPwa, .containerPwaWrapper {
+    max-width: 800px;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+.h-auto {
+    height: auto;
+}
+.w-full {
+    width: 100%;
+}
+.items-center {
+    align-items: center;
+}
+.justify-between {
+    justify-content: space-between;
+}
+.flex {
+    display: flex;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+.flex-row {
+    flex-direction: row;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+styles_newBackground__U4ije {
+    background-color: #14161c;
+}
+
+.styles_wholeContainer__rM65l {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.containerPwa, .containerPwaWrapper {
+    max-width: 800px;
+}
+.mx-auto {
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+.relative {
+    position: relative;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+.cursor-pointer {
+    cursor: pointer !important;
+}
+.items-center {
+    align-items: center;
+}
+.justify-center {
+    justify-content: center;
+}
+.flex-col {
+    flex-direction: column;
+}
+.flex {
+    display: flex;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+.styles_formHeader__mXcj8 {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-transform: capitalize;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+.h-auto {
+    height: auto;
+}
+.w-full {
+    width: 100%;
+}
+.items-center {
+    align-items: center;
+}
+.justify-start {
+    justify-content: flex-start;
+}
+.flex {
+    display: flex;
+}
+.flex-row {
+    flex-direction: row;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+element.style {
+    margin-top: auto;
+    padding: 16px 0px;
+}
+* {
+    box-sizing: border-box;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+.w-full {
+    width: 100%;
+}
+.items-center {
+    align-items: center;
+}
+.justify-between {
+    justify-content: space-between;
+}
+.flex {
+    display: flex;
+}
+.flex-row {
+    flex-direction: row;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+.w-full {
+    width: 100%;
+}
+.items-center {
+    align-items: center;
+}
+.justify-between {
+    justify-content: space-between;
+}
+.flex {
+    display: flex;
+}
+.flex-row {
+    flex-direction: row;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+.styles_inputContainerMobile__ZHXnW {
+    width: calc(100% - 100px);
+}
+
+.styles_container__uOyfS {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: flex-start;
+    height: -moz-fit-content;
+    height: fit-content;
+    padding: 8px 0;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+h-auto {
+    height: auto;
+}
+.w-full {
+    width: 100%;
+}
+.items-center {
+    align-items: center;
+}
+.justify-between {
+    justify-content: space-between;
+}
+.flex {
+    display: flex;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+.flex-row {
+    flex-direction: row;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+.styles_inputTitle__zIBME {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: hsla(0, 0%, 100%, .8);
+    margin-bottom: 8px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0;
+    text-align: left;
+    font-family: IRANSans;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+/*.styles_wrapper__qmDkV {
+    width: 100%;
+ }
+.styles_inputStyle__Hh_Np,
+ .styles_wrapper__gRYu8 { 
+    width: 100%;
+}
+
+
+.styles_wrapper__gRYu8 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 11px;
+    border-radius: 4px;
+    width: 353px;
+    height: 44px;
+    background: #484848;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}*/
+
+
+
+
+
+styles_container__uOyfS input[type=password], .styles_container__uOyfS input[type=text] {
+    background-color: transparent;
+}
+
+.styles_container__uOyfS input {
+    background-color: transparent;
+    border-radius: 8px;
+    background: transparent !important;
+    width: 100%;
+    border: none;
+    padding: 0 5px;
+}
+.ochatt_mode_dark input, .ochatt_mode_dark textarea {
+    color: #fff !important;
+}
+
+.styles_inputStyle__Hh_Np, .styles_wrapper__gRYu8 {
+    width: 100%;
+}
+
+.styles_inputStyle__Hh_Np {
+    width: 353px;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+input[type="text" i] {
+    padding-block: 1px;
+    padding-inline: 2px;
+}
+
+user agent stylesheet
+input {
+    
+    text-rendering: auto;
+    color: fieldtext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    background-color: field;
+    margin: 0em;
+    padding: 1px 0px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+    padding-block: 1px;
+    padding-inline: 2px;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+.styles_inputContainerMobile__ZHXnW {
+    width: calc(100% - 100px);
+}
+
+.styles_container__uOyfS {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: flex-start;
+    height: -moz-fit-content;
+    height: fit-content;
+    padding: 8px 0;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+.h-auto {
+    height: auto;
+}
+.w-full {
+    width: 100%;
+}
+.items-center {
+    align-items: center;
+}
+.justify-between {
+    justify-content: space-between;
+}
+.flex {
+    display: flex;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+.flex-row {
+    flex-direction: row;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+styles_inputContainer__lq5m_ {
+    width: 100%;
+}
+
+.styles_container__uOyfS {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: flex-start;
+    height: -moz-fit-content;
+    height: fit-content;
+    padding: 8px 0;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+.cursor-pointer {
+    cursor: pointer !important;
+}
+img {
+    -webkit-user-select: none !important;
+    -moz-user-select: none !important;
+    user-select: none !important;
+}
+* {
+    box-sizing: border-box;
+}
+img[Attributes ] {
+    width: 16px;
+    aspect-ratio: auto 16 / 16;
+    height: 16px;
+}
+user agent stylesheet
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+.containerPwa {
+    width: calc(100% - 64px) !important;
+    margin: auto 32px;
+    box-sizing: border-box;
+    align-self: center;
+    background-color: #14161c;
+    margin-top: unset;
+    margin-bottom: unset;
+}
+.containerPwa, .containerPwaWrapper {
+    max-width: 800px;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+.ltr .mr-auto {
+    margin-left: auto !important;
+    margin-right: unset !important;
+    direction: rtl;
+   
+}
+
+.styles_forgetText__Uz2Qq, .styles_formHeader__wF9w9 {
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 0;
+    text-decoration: none;
+}
+
+.styles_forgetText__Uz2Qq {
+    padding-top: 4px;
+    font-size: 13px;
+    margin-bottom: 0;
+    color: hsla(0, 0%, 100%, .8);
+    text-decoration: none;
+}
+.cursor-pointer {
+    cursor: pointer !important;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+.styles_formRoot__H9134 {
+    align-self: auto;
+    margin-top: 42px;
+}
+.styles_formRoot__H9134 {
+    justify-self: end;
+    align-self: flex-end;
+    align-items: center;
+    flex-direction: row;
+    width: auto;
+    display: flex;
+    margin-top: auto;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+
+
+
+element.style {
+    padding: 0px 5px;
+    color: rgba(255, 255, 255, 0.8);
+}
+* {
+    box-sizing: border-box;
+}
+
+.styles_bottomTexts__s22Vu {
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 9px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0;
+    text-align: left;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+.ochatt_mode_dark .loginContent {
+    width: 100% !important;
+}
+
+.styles_flexStyle__E7kg4 {
+    flex-direction: row;
+    border-radius: 10px;
+    height: auto;
+    width: auto !important;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.h-auto {
+    height: auto;
+}
+.w-full {
+    width: 100%;
+}
+.justify-center {
+    justify-content: center;
+}
+.flex {
+    display: flex;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+
+
+
+
+
+
+
+
+.containerPwa {
+    width: calc(100% - 64px) !important;
+    margin: auto 32px;
+    box-sizing: border-box;
+    align-self: center;
+    background-color: #14161c;
+    margin-top: unset;
+    margin-bottom: unset;
+}
+.containerPwa, .containerPwaWrapper {
+    max-width: 800px;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.ochatt_mode_dark {
+    color: #fff !important;
+}
+.ltr {
+    font-family: GillSans !important;
+    direction: ltr;
+}
+body {
+    font-family: IranSans_Light;
+    position: relative;
+    direction: ltr;
+}
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: PoppinsFaNum, PoppinsFaNumBold !important;
+    scroll-behavior: smooth;
+}
+body {
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+    font-family: Poppins;
+    scrollbar-width: thin;
+    scrollbar-color: #aaa transparent;
+}
+.g{
+    text-decoration: none;
+    color: #1c39bb;
+}
+
+.m{
+    text-decoration: none;
+    color: #ffffff;  
+}
